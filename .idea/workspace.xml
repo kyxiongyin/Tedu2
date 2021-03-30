@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7ebacde-0bcc-44ed-a74c-831827a6198f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise02.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise1.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise1.py" afterDir="false" />
-    </list>
+    <list default="true" id="a7ebacde-0bcc-44ed-a74c-831827a6198f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,5 +51,11 @@
       <updated>1617018253759</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="603" y="290" width="771" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617077097203">
+      <screen x="67" y="27" width="1853" height="930" />
+    </state>
+    <state x="603" y="290" width="771" height="402" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.930@67.27.1853.930" timestamp="1617077097203" />
   </component>
 </project>
