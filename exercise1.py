@@ -13,17 +13,6 @@ def get_address(port):
        data = ''
        for line in f:
            if line =='\n':
-               break
-           data += line
-       #没有找到目标段落
-       if not data:
-           return '没有该端口'
-       obj = re.match(r'\S+',data)
-       if port == obj.group():
-           pattern = r'(\d{1,3}\.){3}\d{1,3}/\d{2}|Unknown'
-           obj = re.search(pattern,data)
-           if obj:
-               return obj.group()
 
 
 
